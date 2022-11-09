@@ -1,2 +1,2 @@
 # CalculadoraIMC
-Primer proyecto de Python creando una calculadora de masa corporal 
+Proyecto de Python creando una calculadora de masa corporal 
