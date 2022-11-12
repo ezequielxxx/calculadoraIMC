@@ -21,7 +21,7 @@ def pedirELIMC():
     if imc >= 20 and imc < 30:
         print("Está en un peso normal")
     if imc >= 30:
-        print("Está con obesidad,cuidado!")
+        print("Estado de  obesidad,cuidado!")
         print("Su IMC es de : " + str(imc))
 
 print("Bienvenido a el calculador de IMC")
