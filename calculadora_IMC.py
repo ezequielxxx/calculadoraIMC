@@ -24,5 +24,5 @@ def pedirELIMC():
         print("Estado de  obesidad,cuidado!")
         print("Su IMC es de : " + str(imc))
 
-print("Bienvenido a el calculador de IMC")
+print("Bienvenido al calculador de IMC")
 pedirELIMC()
